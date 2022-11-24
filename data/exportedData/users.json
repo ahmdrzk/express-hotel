@@ -1,0 +1,38 @@
+[
+  {
+    "_id": { "$oid": "60f3ef3cc3aa4942e004b0e4" },
+    "role": "admin",
+    "is_deactivated": false,
+    "passwordChange": {
+      "_id": { "$oid": "60f3ef3cc3aa4942e004b0e3" },
+      "created_at": { "$date": { "$numberLong": "1626599228018" } },
+      "updated_at": { "$date": { "$numberLong": "1626599228018" } }
+    },
+    "name": "Admin",
+    "email": "admin@mailsac.com",
+    "password": "$2a$12$tQ4Ovnk1emLXNXdWRe.B5uGhJuiZLnurfLFTXgYxDjy68r04WHg.C",
+    "birthdate": { "$date": { "$numberLong": "612565200000" } },
+    "country": "Egypt",
+    "created_at": { "$date": { "$numberLong": "1626599228391" } },
+    "updated_at": { "$date": { "$numberLong": "1626599228391" } },
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "60f3ef47c3aa4942e004b0e6" },
+    "role": "customer",
+    "is_deactivated": false,
+    "passwordChange": {
+      "_id": { "$oid": "60f3ef47c3aa4942e004b0e5" },
+      "created_at": { "$date": { "$numberLong": "1626599239753" } },
+      "updated_at": { "$date": { "$numberLong": "1626599239753" } }
+    },
+    "name": "Ahmed Rezk",
+    "email": "ahmed@mailsac.com",
+    "password": "$2a$12$I4DtEYdhaJVxadyi1nDJAOoN2B9m7ayBf90zcIAzZLSNdKsnShhza",
+    "birthdate": { "$date": { "$numberLong": "612565200000" } },
+    "country": "Egypt",
+    "created_at": { "$date": { "$numberLong": "1626599240090" } },
+    "updated_at": { "$date": { "$numberLong": "1626599240090" } },
+    "__v": { "$numberInt": "0" }
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "_id": "1001",
+    "room_id": "premier",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1002",
+    "room_id": "deluxe",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1003",
+    "room_id": "superior",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1004",
+    "room_id": "superior",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1005",
+    "room_id": "deluxe",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1006",
+    "room_id": "premier",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1007",
+    "room_id": "signatureplus",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1008",
+    "room_id": "signature",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1009",
+    "room_id": "signature",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "1010",
+    "room_id": "signatureplus",
+    "floor": 1,
+    "smoking": false
+  },
+  {
+    "_id": "2001",
+    "room_id": "premier",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2002",
+    "room_id": "deluxe",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2003",
+    "room_id": "superior",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2004",
+    "room_id": "superior",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2005",
+    "room_id": "deluxe",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2006",
+    "room_id": "premier",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2007",
+    "room_id": "signatureplus",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2008",
+    "room_id": "signature",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2009",
+    "room_id": "signature",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "2010",
+    "room_id": "signatureplus",
+    "floor": 2,
+    "smoking": false
+  },
+  {
+    "_id": "3001",
+    "room_id": "premier",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3002",
+    "room_id": "deluxe",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3003",
+    "room_id": "superior",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3004",
+    "room_id": "superior",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3005",
+    "room_id": "deluxe",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3006",
+    "room_id": "premier",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3007",
+    "room_id": "signaturepanorama",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3008",
+    "room_id": "signatureplus",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3009",
+    "room_id": "signature",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3010",
+    "room_id": "signature",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3011",
+    "room_id": "signatureplus",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "3012",
+    "room_id": "signaturepanorama",
+    "floor": 3,
+    "smoking": true
+  },
+  {
+    "_id": "4001",
+    "room_id": "premier",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4002",
+    "room_id": "deluxe",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4003",
+    "room_id": "superior",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4004",
+    "room_id": "superior",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4005",
+    "room_id": "deluxe",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4006",
+    "room_id": "premier",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4007",
+    "room_id": "signaturepanorama",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4008",
+    "room_id": "signatureplus",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4009",
+    "room_id": "signature",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4010",
+    "room_id": "signature",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4011",
+    "room_id": "signatureplus",
+    "floor": 4,
+    "smoking": true
+  },
+  {
+    "_id": "4012",
+    "room_id": "signaturepanorama",
+    "floor": 4,
+    "smoking": true
+  }
+]
